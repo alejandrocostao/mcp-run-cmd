@@ -1,0 +1,10 @@
+{
+  "name": "MCP RunCmd",
+  "description": "Servidor MCP para ejecutar comandos y scripts desde LM Studio",
+  "binary": "python",
+  "args": [
+    "runCmd.py"
+  ],
+  "env": {},
+  "autoStart": true
+}
