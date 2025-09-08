@@ -25,7 +25,7 @@ cp .env.example .env
 # Edit .env to set WORKING_DIR, timeouts, etc.
 
 # 4) Run
-python runCmd.py
+add json in LM Studio
 ```
 
 ## 🔩 Configuration (env vars)
