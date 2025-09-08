@@ -25,7 +25,7 @@ cp .env.example .env
 # Edit .env to set WORKING_DIR, timeouts, etc.
 
 # 4) Run
-add json in LM Studio
+modify or add mcp.json LM Studio
 ```
 
 ## 🔩 Configuration (env vars)
