@@ -1,4 +1,4 @@
-
+!!!In the latest update of LM Studio 0.3.25 this no longer works fully.!!!
 # MCP RunCmd (Template)
 
 A ready-to-publish **MCP (Model Context Protocol)** server for **LM Studio** to run shell commands and Python code.
